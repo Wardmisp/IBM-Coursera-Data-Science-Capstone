@@ -14,8 +14,8 @@ The model notebook is the ost complete one and also contains the training and re
 
 # ADD & presentation
 
-The mandatory ADD can be found here as well as my presentation support. My youtube presentation is here : [presentation](www.youtube.com)
+The mandatory ADD can be found here as well as my presentation support. My youtube presentation is here : [presentation](youtube.com)
 
 # Result 
 
-I achieve a 94% accuracy with the CNN and RGB images and a surprizing 98% with the Random Forest and it HSV(hue, saturation, value) histogram representation. 
+I achieve a 94% accuracy with the CNN and RGB images and a surprizing 98% with the Random Forest and its HSV(hue, saturation, value) histogram representation. 
